@@ -1,0 +1,2 @@
+自学项目  
+一个全面的负载均衡和远程服务调度系统，用于管理和优化分布式环境中的计算资源利用。Lars_reactor中搭建基础的reactor模型服务器框架，Lars_dns为各agent提供获取路由服务，Lars_report接收各agent对节点的调用状态上报。
